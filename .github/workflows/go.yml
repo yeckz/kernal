@@ -25,7 +25,7 @@ jobs:
       -
         name: go 
         run: |
-          go mod init github.comyeckz/kernal
+          go mod init github.com/yeckz/kernal
           #go mod tidy
       -
         name: Set up Git
